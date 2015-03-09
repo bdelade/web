@@ -1,0 +1,90 @@
+.connexion {
+	color: #fff;
+}
+
+.deconnexion {
+	color: #fff;
+	float: left;
+}
+
+#player{
+	margin-bottom: 15px;
+}
+
+.header{
+	float: left;
+	margin-top: 10px;
+}
+
+body
+{
+	color : white;
+	margin:0;
+	padding:0;
+	background: url(image.jpg) no-repeat center fixed; 
+	background-repeat: no-repeat; 
+	-webkit-background-size: cover; /* pour Chrome et Safari */
+	-moz-background-size: cover; /* pour Firefox */
+	-o-background-size: cover; /* pour Opera */
+	background-size: cover; /* version standardisée */
+  	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+}
+
+#conteneur
+{
+	margin-top : 150px;
+	text-align:center;
+	width : 75%;
+	height : 50%;
+	overflow : auto;
+}
+
+h1
+{
+	
+	border-radius: 5px 5px 5px 5px;
+	background-color: rgb(48,48,48);
+	color : white;
+}
+
+.menu
+{
+
+	border: 1px;
+	border-color: rgb(133,133,133);
+	width: 155px;
+	
+	
+}
+
+.menu table
+{
+	border-radius : 5px 5px 5px 5px;
+	background-color: rgb(133,133,133);
+	border-color: rgb(133,133,133);
+	width : 200px;
+	background:  url(../images/Image_Entiere.jpg) no-repeat;
+	
+}
+
+.menu table tr
+{
+	height: 30px;
+}
+
+.menu table tr a:hover
+{
+	color: yellow;
+}
+
+.menu th a
+{
+	text-decoration : none;
+	color : white;
+	font-family: Constantia;
+	font-style : italic;
+}
+
+

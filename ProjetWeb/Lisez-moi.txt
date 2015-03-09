@@ -1,0 +1,4 @@
+Importer librozik2.sql dans phpMyAdmin
+Démarrer AccueilVue.php
+S'inscrire ou utiliser un utilisateur déjà existant : Test/test
+Pour se connecter en administrateur : Admin/admin
